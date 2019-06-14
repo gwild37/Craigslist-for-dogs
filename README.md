@@ -1,15 +1,13 @@
 ### Craigslist but for Dogs
 
-> Project idea: Open Source Craiglist but for Dogs: trading and buying platform for dogs\
+> Project idea: WWe provide a free service where users must upload a minimum 4 GB image of their dogs. We make money by charging for a space telescope which we will use to take pictures of the dogs. 
 
 #### License
-> Apache 2.0 License - A permissive license whose main conditions require preservation of copyright and \
-> license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and \
-> larger works may be distributed under different terms and without source code.\
+> GPL v3
 
-#### Why Apache License?
+#### Why GPL v3?
 > We are using this license because it allows users to copy and use our code as long as they contain the same copyright and state changes to us whenever the code is modified/distributed.
 
 #### Business Model
-> This is a web platform to buy and sell dogs. Profits are made by taking a cut of every transaction. License\
-> ischosen to be as restrictive as possible.\
+> This is a web platform to buy and sell dogs. Profits are made by taking a cut of every transaction. License
+> ischosen to be as restrictive as possible.
