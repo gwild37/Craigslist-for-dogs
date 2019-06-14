@@ -1,6 +1,6 @@
 ### Craigslist but for Dogs
 
-> Project idea: We provide a free service where users must upload a minimum 4 GB image of their dogs.
+> Project idea: We provide a free service where users must upload a minimum 11,477 by 7,965 image of their dogs.
 
 #### License
 > GPL v3
