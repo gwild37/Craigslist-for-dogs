@@ -1,13 +1,12 @@
 ### Craigslist but for Dogs
 
-> Project idea: WWe provide a free service where users must upload a minimum 4 GB image of their dogs. We make money by charging for a space telescope which we will use to take pictures of the dogs. 
+> Project idea: We provide a free service where users must upload a minimum 4 GB image of their dogs.
 
 #### License
 > GPL v3
 
 #### Why GPL v3?
-> We are using this license because it allows users to copy and use our code as long as they contain the same copyright and state changes to us whenever the code is modified/distributed.
+> We are using the GPL v3 license because we don't want any proprietary projects to make use of our code. This is opposed to the Apache 2.0 license from the original project. 
 
 #### Business Model
-> This is a web platform to buy and sell dogs. Profits are made by taking a cut of every transaction. License
-> ischosen to be as restrictive as possible.
+> We provide a space telescope. We take pictures of dogs with the space telescope. We charge for users to use the space telescope
